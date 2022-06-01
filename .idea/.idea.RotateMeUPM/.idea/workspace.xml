@@ -2,6 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="c116bf41-8ec5-4828-a021-4aa246d12018" name="默认变更列表" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.RotateMeUPM/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.RotateMeUPM/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Assets/RotateMe/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/RotateMe/package.json" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -63,6 +64,8 @@
       <updated>1654082254973</updated>
       <workItem from="1654082264708" duration="6000" />
       <workItem from="1654083419950" duration="26000" />
+      <workItem from="1654083848322" duration="385000" />
+      <workItem from="1654084261994" duration="25000" />
     </task>
     <servers />
   </component>
